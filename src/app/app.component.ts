@@ -6,6 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Agro System - Angular';
-  name = 'Dilan Isuru Jayasinghe';
+  title = 'Agro - Agricultural System';
 }
